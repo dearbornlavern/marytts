@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mozilla/marytts.svg?branch=5.1.x)](https://travis-ci.org/mozilla/marytts)
+[![Build Status](https://travis-ci.org/mozilla/marytts.svg?branch=master)](https://travis-ci.org/mozilla/marytts)
 
 MARY TTS README
 ===============
