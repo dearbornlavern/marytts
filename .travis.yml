@@ -8,6 +8,7 @@ branches:
     - 6.x
 
 language: java
+before_install: echo "MAVEN_OPTS='-XX:-UseGCOverheadLimit'" > $HOME/.mavenrc
 install: mvn install -DskipTests=true -P!standard-with-extra-repos
 script: mvn verify
 jdk:
